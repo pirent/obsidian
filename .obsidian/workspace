@@ -1,0 +1,95 @@
+{
+  "main": {
+    "id": "c321da109dcdff6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "4c6e08112ebd5b88",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Fleeting Notes/Test me.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c7ee87596700d951",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c6e3edd0f523e10",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b89023cc7343c1a3",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "8658a3f083deed41",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c1caa6fb5160c48a",
+    "type": "split",
+    "children": [
+      {
+        "id": "0ec28f86dd928921",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c3ffc1466ec35268",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Fleeting Notes/Test me.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "4c6e08112ebd5b88",
+  "lastOpenFiles": [
+    "Fleeting Notes/Test me.md",
+    "Templates/Map of Content.md",
+    "Templates/Note Template.md"
+  ]
+}
